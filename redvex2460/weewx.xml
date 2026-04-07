@@ -18,7 +18,7 @@ mqtt</Overview>
   <Category>HomeAutomation:</Category>
   <WebUI/>
   <TemplateURL/>
-  <Icon>https://www.weewx.com/weewx-logo-128x128.png</Icon>
+  <Icon>https://weewx.com/images/weewx-logo-128x128.png</Icon>
   <ExtraParams/>
   <PostArgs/>
   <CPUset/>
